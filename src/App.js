@@ -29,7 +29,7 @@ function App() {
 
   }, [pokemon])
 
-  
+  console.log(pokemonAbilities)
 
   return (
     <div className="App">
